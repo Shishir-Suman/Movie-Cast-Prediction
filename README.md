@@ -6,7 +6,7 @@ html file will open an interactive web app where the user can recieve cast
 reccomendations for their movie; more details on using the interface is in the
 demo section of this readme.
 
-*** the html file MUST be opened with the Firefox browser. ***
+** the html file MUST be opened with the Firefox browser. **
 ================================================================================
 
 INSTALLATION:
