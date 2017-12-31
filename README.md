@@ -1,3 +1,6 @@
+COLLABORATORS
+John Abraham, Terence Au, Shishir Suman, Daniel Zagyva, Cinmay Palande, Nitish Kholgade
+
 DESCRIPTION
 
 This package contains an html file, files for the web app using the flask python
