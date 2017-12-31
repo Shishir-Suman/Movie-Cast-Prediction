@@ -6,7 +6,7 @@ html file will open an interactive web app where the user can recieve cast
 reccomendations for their movie; more details on using the interface is in the
 demo section of this readme.
 
-Browser compatibility: Firefox
+BROWSER COMPATIBILITY: Firefox
 
 INSTALLATION:
 this section describes how to install the server files as a python package.
