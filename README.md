@@ -1,4 +1,4 @@
-COLLABORATORS
+COLLABORATORS FOR PROJECT
 John Abraham, Terence Au, Shishir Suman, Daniel Zagyva, Cinmay Palande, Nitish Kholgade
 
 DESCRIPTION
